@@ -46,4 +46,26 @@ font-size: 24px;
 
 .estudante-imagem{ 
     width: 120px;
+    padding: 20px 0px;
+
 }
+
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+
+}
+
+.estudante-div{
+    text-align: center;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+ .estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20% 20%;
+ }
+ 
